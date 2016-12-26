@@ -1,0 +1,10 @@
+D:\Work\EntityCodeFirst\MVCEntityWebBOL\bin\Debug\MVCEntityWebBOL.dll.config
+D:\Work\EntityCodeFirst\MVCEntityWebBOL\bin\Debug\MVCEntityWebBOL.dll
+D:\Work\EntityCodeFirst\MVCEntityWebBOL\bin\Debug\MVCEntityWebBOL.pdb
+D:\Work\EntityCodeFirst\MVCEntityWebBOL\bin\Debug\EntityFramework.dll
+D:\Work\EntityCodeFirst\MVCEntityWebBOL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Work\EntityCodeFirst\MVCEntityWebBOL\bin\Debug\EntityFramework.xml
+D:\Work\EntityCodeFirst\MVCEntityWebBOL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Work\EntityCodeFirst\MVCEntityWebBOL\obj\Debug\MVCEntityWebBOL.csprojResolveAssemblyReference.cache
+D:\Work\EntityCodeFirst\MVCEntityWebBOL\obj\Debug\MVCEntityWebBOL.dll
+D:\Work\EntityCodeFirst\MVCEntityWebBOL\obj\Debug\MVCEntityWebBOL.pdb

@@ -8,9 +8,6 @@ using MVCEntityWebBOL;
 using System.Configuration;
 using RestSharp;
 
-
-
-
 namespace MVCEntityWeb.Helper
 {
     public class UrlServerData : IUrlServerData
@@ -36,8 +33,9 @@ namespace MVCEntityWeb.Helper
 
         public List<tbl_Url> GetByID(int ID)
          {
-              var request = new RestRequest("api/url/get", Method.GET) { RequestFormat = DataFormat.Json };
-              var response = _client.Execute<List<tbl_Url>>(request);
+              var request = new RestRequest("api/url/get/{ID}", Method.GET) { RequestFormat = DataFormat.Json };
+            request.AddParameter("ID", ID, ParameterType.UrlSegment);
+            var response = _client.Execute<List<tbl_Url>>(request);
 
             if (response.StatusCode != HttpStatusCode.OK)
                 throw new Exception(response.ErrorMessage);

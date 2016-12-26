@@ -29,5 +29,7 @@ namespace MVCEntityWeb.Models
         {
             return new ApplicationDbContext();
         }
+
+        public System.Data.Entity.DbSet<MVCEntityWebBOL.tbl_Url> tbl_Url { get; set; }
     }
 }

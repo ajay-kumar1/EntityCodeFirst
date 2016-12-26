@@ -35,7 +35,8 @@ namespace MVCEntityWeb.Helper
 
         public List<tbl_Category> GetByID(int ID)
         {
-            var request = new RestRequest("api/url/get", Method.GET) { RequestFormat = DataFormat.Json };
+            var request = new RestRequest("api/url/GetByID/{ID}", Method.GET) { RequestFormat = DataFormat.Json };
+            request.AddParameter("ID", ID, ParameterType.UrlSegment);
             var response = _client.Execute<List<tbl_Category>>(request);
 
             if (response.StatusCode != HttpStatusCode.OK)

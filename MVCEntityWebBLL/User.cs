@@ -22,6 +22,11 @@ namespace MVCEntityWebBLL
             return objDb.GetALL();
         }
 
+        public IEnumerable<tbl_User> GetUser(string UserEmail, string Password)
+        {
+            return objDb.GetUser(UserEmail, Password).ToList();
+        }
+
         public tbl_User GetByID(int Id)
         {
             return objDb.GetByID(Id);

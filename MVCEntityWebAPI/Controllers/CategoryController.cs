@@ -13,6 +13,7 @@ using System.Configuration;
 using Newtonsoft;
 namespace MVCEntityWebAPI.Controllers
 {
+    [Authorize]
     public class CategoryController : ApiController
     {
 

@@ -16,6 +16,12 @@ namespace MVCEntityWebDAL
             db = new MVCEntityWebDBEntities();
         }
 
+        //var Result = Db.GeneralSettings.Where(Row => Row.ShortUrl == Name & Row.UserId != UserId).ToList();
+
+        public IEnumerable<tbl_User> GetUser(string UserEmail, string Password)
+        {
+            return db.tbl_User.Where(Row => Row.UserEmail == UserEmail & Row.Password != Password).ToList();
+        }
         public IEnumerable<tbl_User> GetALL()
         {
             return db.tbl_User.ToList();

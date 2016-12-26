@@ -1,0 +1,11 @@
+D:\Work\EntityCodeFirst\MVCEntityWebBLL\bin\Debug\MVCEntityWebBLL.dll
+D:\Work\EntityCodeFirst\MVCEntityWebBLL\bin\Debug\MVCEntityWebBLL.pdb
+D:\Work\EntityCodeFirst\MVCEntityWebBLL\bin\Debug\MVCEntityWebBOL.dll
+D:\Work\EntityCodeFirst\MVCEntityWebBLL\bin\Debug\MVCEntityWebDAL.dll
+D:\Work\EntityCodeFirst\MVCEntityWebBLL\bin\Debug\EntityFramework.dll
+D:\Work\EntityCodeFirst\MVCEntityWebBLL\bin\Debug\MVCEntityWebBOL.pdb
+D:\Work\EntityCodeFirst\MVCEntityWebBLL\bin\Debug\MVCEntityWebDAL.pdb
+D:\Work\EntityCodeFirst\MVCEntityWebBLL\bin\Debug\EntityFramework.xml
+D:\Work\EntityCodeFirst\MVCEntityWebBLL\obj\Debug\MVCEntityWebBLL.csprojResolveAssemblyReference.cache
+D:\Work\EntityCodeFirst\MVCEntityWebBLL\obj\Debug\MVCEntityWebBLL.dll
+D:\Work\EntityCodeFirst\MVCEntityWebBLL\obj\Debug\MVCEntityWebBLL.pdb

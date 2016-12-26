@@ -1,0 +1,12 @@
+D:\Work\EntityCodeFirst\MVCEntityWebDAL\bin\Debug\MVCEntityWebDAL.dll.config
+D:\Work\EntityCodeFirst\MVCEntityWebDAL\bin\Debug\MVCEntityWebDAL.dll
+D:\Work\EntityCodeFirst\MVCEntityWebDAL\bin\Debug\MVCEntityWebDAL.pdb
+D:\Work\EntityCodeFirst\MVCEntityWebDAL\bin\Debug\EntityFramework.dll
+D:\Work\EntityCodeFirst\MVCEntityWebDAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Work\EntityCodeFirst\MVCEntityWebDAL\bin\Debug\MVCEntityWebBOL.dll
+D:\Work\EntityCodeFirst\MVCEntityWebDAL\bin\Debug\MVCEntityWebBOL.pdb
+D:\Work\EntityCodeFirst\MVCEntityWebDAL\bin\Debug\EntityFramework.xml
+D:\Work\EntityCodeFirst\MVCEntityWebDAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Work\EntityCodeFirst\MVCEntityWebDAL\obj\Debug\MVCEntityWebDAL.csprojResolveAssemblyReference.cache
+D:\Work\EntityCodeFirst\MVCEntityWebDAL\obj\Debug\MVCEntityWebDAL.dll
+D:\Work\EntityCodeFirst\MVCEntityWebDAL\obj\Debug\MVCEntityWebDAL.pdb
